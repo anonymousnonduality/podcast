@@ -26,8 +26,8 @@ header .profileLogo {
 header .profileHeader h2 {
 	font-family: sans-serif, 'GothamMediumRegular';
 /*	font-family: 'Montserrat', sans-serif; */
-	color: rgba(146,146,146,1.00); */
-	color: rgba(120,120,120,1.00);
+	/*color: rgba(146,146,146,1.00); */
+	color: rgba(149,53,188,1.00);
 	font-size: 20px;
 	font-weight: 700;
 	line-height: 24px;
@@ -44,6 +44,19 @@ hr {
 	background-color: rgba(208,207,207,1.00);
 	height: 1px;
 }
+header .profileHeader pt {
+/*	font-family: sans-serif; */
+	font-family: GothamBook, sans-serif; 
+/*	color: rgba(146,146,146,1.00); 
+	color: rgba(120,120,120,1.00); */
+	color: rgba(196,113,229,1.00);
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 1.8;
+	overflow-y: auto;
+}
+
+
 header .profileHeader p {
 /*	font-family: sans-serif; */
 	font-family: GothamBook, sans-serif; 
@@ -112,8 +125,9 @@ article .column-2{
 }
 
 article .externalResourcesNav .externalResources {
-	background-color: rgba(153,153,153,1.00);
+/*	background-color: rgba(153,153,153,1.00);
 /*	background-color: rgba(208,207,207,1.00);*/
+	background-color: rgba(149,53,188,1.00);
 	display: inline-block;
 	text-align: center;
 	margin-top: 0px;
