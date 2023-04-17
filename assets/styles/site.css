@@ -105,7 +105,7 @@ article .column-1{
 article .column-2{
 	float:right;
 	padding-top: 10px;
-	width:52%;
+	width: 42%; /*52%;*/
 }
 
 /* Responsive video wrapper */
